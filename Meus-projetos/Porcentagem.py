@@ -1,0 +1,7 @@
+print('\033[31m-=' * 15)
+print('\033[33m{:^30}'.format('Porcentagem'))
+print('\033[31m-=' * 15)
+num = float(input('\033[34mDigite o número: '))
+por = float(input('Digite a porcentagem desejada: '))
+tot = num * (por / 100)
+print(f'\033[31m{por}\033[34m porcento de\033[31m {num}\033[34m é\033[31m {tot}')

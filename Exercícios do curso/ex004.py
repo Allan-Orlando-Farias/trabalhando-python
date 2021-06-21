@@ -1,0 +1,10 @@
+# DISSECANDO UMA VARIÁVEL
+algo = input('\033[34mDigite algo: ')
+print('\033[35mO tipo primitivo desse valor é ', type(algo))
+print('Só tem espaços? ', algo.isspace())
+print('É um número? ', algo.isnumeric())
+print('É alfabético? ', algo.isalpha())
+print('É alfanumérico? ', algo.isalnum())
+print('Está em maiúsculas? ', algo.isupper())
+print('Está em minúsculas? ', algo.islower())
+print('Está capitalizada? ', algo.istitle())
