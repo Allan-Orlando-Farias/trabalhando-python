@@ -6,6 +6,6 @@ while True:
     if 'comeu bem' in pessoa and '?' in pessoa:
         print('Sim, comi bastante :)')
     if 'você está bem' in pessoa and '?' in pessoa:
-        print('Sim esses tempos estavam difíceis mas agora estou bem')
+        print('Sim estou bem')
 
 # TENHO QUE TERMINAR, EU SEI ALLAN DO FUTURO KSKSKS
