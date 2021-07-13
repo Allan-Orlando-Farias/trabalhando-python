@@ -8,4 +8,4 @@ while True:
     if 'você está bem' in pessoa and '?' in pessoa:
         print('Sim estou bem')
 
-# TENHO QUE TERMINAR, EU SEI ALLAN DO FUTURO KSKSKS
+# TENHO QUE TERMINAR
